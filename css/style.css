@@ -1,0 +1,14 @@
+body { 
+    font-family: mononspace;
+}
+.primary-header {
+    padding: 40px 20px;
+    background: #197ED1;
+    color: #fff;
+}
+h1 {
+    font-size: 2.1em;
+}
+h2 {
+    font-size: 1.5em;
+}
